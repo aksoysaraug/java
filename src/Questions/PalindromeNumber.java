@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 public class PalindromeNumber {
 
-    static int sum=0,rem;
-
-
     public static void main(String[] args) {
 
         Scanner scan= new Scanner(System.in);
